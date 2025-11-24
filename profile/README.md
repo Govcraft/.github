@@ -1,6 +1,6 @@
 # Hey, I'm Roland 👋
 
-Govcraft is just me—a one-person shop. I'm an entrepreneur and open-source developer with nearly 30 years in software architecture and engineering. I live and work on a sailboat with my family and 3 cats, running everything on solar power while cruising the Pacific.
+Govcraft is just me—a one-person shop. I'm an entrepreneur and open-source developer with over 30 years in software architecture and engineering. I live and work on a sailboat with my family and 3 cats, running everything on solar power while cruising the Pacific.
 
 ## What's Govcraft?
 
