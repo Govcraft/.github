@@ -1,0 +1,6 @@
+{
+  "name": "Static Site Build & Release",
+  "description": "Build a static site with npm and create GitHub releases on version tags. Includes npm caching optimized for tag workflows.",
+  "iconName": "octicon package",
+  "categories": ["Node", "JavaScript", "Deployment"]
+}

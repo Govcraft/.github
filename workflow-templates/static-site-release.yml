@@ -1,0 +1,14 @@
+name: Build and Release Static Site
+
+on:
+  push:
+    branches: [$default-branch]  # Populate cache for tag workflows
+    tags: ['v*']                 # Create release on version tags
+
+jobs:
+  build-and-release:
+    uses: Govcraft/.github/.github/workflows/static-site-release.yml@main
+    with:
+      node-version: '22'
+      create-release: ${{ startsWith(github.ref, 'refs/tags/') }}
+    secrets: inherit
