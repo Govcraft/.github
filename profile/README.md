@@ -1,25 +1,33 @@
-# Hey, I'm Roland 👋
+# Govcraft
 
-Govcraft is just me—a one-person shop. I'm an entrepreneur and open-source developer with over 30 years in software architecture and engineering. I live and work on a sailboat with my family and 3 cats, running everything on solar power while cruising the Pacific.
+We build smart, reliable, compliance-ready systems for organizations that can't afford to get it wrong.
 
-## What's Govcraft?
+Govcraft is a veteran-owned systems integrator specializing in cloud architecture, AI integration, and compliance-ready software for public and private sector clients.
 
-It's where I build and maintain open-source tools that I think are useful. No giant company here, no investors, no unlimited resources—just me trying to make good software and share it with the world.
+## Platforms
 
-## Current Projects
+- **[Meridian](https://govcraft.ai/platforms/meridian)** — Managed multilingual translation for public sector
+- **[Pulse](https://govcraft.ai/platforms/pulse)** — Privacy-first analytics you own
+- **[Azimuth](https://govcraft.ai/platforms/azimuth)** — AI-enabled customer pipeline
+- **[Emergent](https://govcraft.ai/platforms/emergent)** — Agentic AI pipelines on rails
 
-- **[acton-service](https://github.com/Govcraft/acton-service)** - Production-grade Rust microservice framework with enforced best practices
-- **[acton-reactive](https://github.com/Govcraft/acton-reactive)** - Actor-based reactive framework for Rust
-- **[rust-docs-mcp-server](https://github.com/Govcraft/rust-docs-mcp-server)** - MCP server for querying Rust crate documentation
+## Open Source
 
-## Support My Work
+- **[rust-docs-mcp-server](https://github.com/Govcraft/rust-docs-mcp-server)** — Prevents outdated Rust code suggestions from AI assistants
+- **[rusty_paseto](https://github.com/rrrodzilla/rusty_paseto)** — Type-driven PASETO/PASERK secure token implementation
+- **[acton-service](https://github.com/Govcraft/acton-service)** — Production-grade Rust microservice framework
+- **[emergent](https://github.com/Govcraft/emergent)** — Event-driven workflow engine
+- **[acton-reactive](https://github.com/Govcraft/acton-reactive)** — Actor-based concurrency foundation
+- **[acton-ai](https://github.com/Govcraft/acton-ai)** — AI agent framework + CLI with multi-provider LLM support
+- **[beankeeper](https://github.com/Govcraft/beankeeper)** — Double-entry accounting library + CLI
 
-If you find any of this stuff useful, consider [sponsoring me](https://github.com/sponsors/Govcraft). Your support helps me keep the lights on (literally—boat batteries aren't cheap) and lets me spend more time building and maintaining these projects for everyone.
+## Research
+
+- [Emergent Coordination via Pressure Fields](https://arxiv.org/abs/2601.08129)
+- [Agent Identity URI Scheme](https://arxiv.org/abs/2601.14567)
 
 ## Get in Touch
 
+- **Web:** [govcraft.ai](https://govcraft.ai)
 - **Email:** [roland@govcraft.ai](mailto:roland@govcraft.ai)
 - **Bluesky:** [@govcraft.ai](https://bsky.app/profile/govcraft.ai)
-- **Personal GitHub:** [@rrrodzilla](https://github.com/rrrodzilla)
-
-Always happy to chat about Rust, open source, or sailing.
