@@ -15,7 +15,7 @@ Govcraft is a veteran-owned systems integrator specializing in cloud architectur
 
 - **[rust-docs-mcp-server](https://github.com/Govcraft/rust-docs-mcp-server)** — Prevents outdated Rust code suggestions from AI assistants
 - **[rusty_paseto](https://github.com/rrrodzilla/rusty_paseto)** — Type-driven PASETO/PASERK secure token implementation
-- **[acton-service](https://github.com/Govcraft/acton-service)** — Production-grade Rust microservice framework
+- **[acton-service](https://github.com/Govcraft/acton-service)** — Opinionated Rust backend framework with type-enforced best practices
 - **[emergent](https://github.com/Govcraft/emergent)** — Event-driven workflow engine
 - **[acton-reactive](https://github.com/Govcraft/acton-reactive)** — Actor-based concurrency foundation
 - **[acton-ai](https://github.com/Govcraft/acton-ai)** — AI agent framework + CLI with multi-provider LLM support
