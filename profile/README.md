@@ -7,7 +7,7 @@ Govcraft is a veteran-owned systems integrator specializing in cloud architectur
 ## Platforms
 
 - **[Meridian](https://govcraft.ai/platforms/meridian)** — Managed multilingual translation for public sector
-- **[Pulse](https://govcraft.ai/platforms/pulse)** — Privacy-first analytics you own
+- **[Pulse](https://govcraft.ai/platforms/pulse)** — Privacy-first, AI-enhanced analytics you own
 - **[Azimuth](https://govcraft.ai/platforms/azimuth)** — AI-enabled customer pipeline
 - **[Emergent](https://govcraft.ai/platforms/emergent)** — Agentic AI pipelines on rails
 
